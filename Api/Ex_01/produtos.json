@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nome": "Smartphone XYZ",
+        "marca": "TechBrand",
+        "categoria": "Eletr\u00f4nicos",
+        "pre\u00e7o": 1500.0,
+        "quantidade_em_estoque": 10,
+        "dispon\u00edvel_para_pronta_entrega": true
+    },
+    {
+        "id": 2,
+        "nome": "T\u00eanis de corrida Alfa",
+        "marca": "SportsCo",
+        "categoria": "Vestu\u00e1rio",
+        "pre\u00e7o": 300.0,
+        "quantidade_em_estoque": 20,
+        "dispon\u00edvel_para_pronta_entrega": false
+    },
+    {
+        "id": 3,
+        "nome": "Cafeteira Expresso 15 bar",
+        "marca": "CoffeeMaker",
+        "categoria": "Eletrodom\u00e9sticos",
+        "pre\u00e7o": 450.0,
+        "quantidade_em_estoque": 5,
+        "dispon\u00edvel_para_pronta_entrega": true
+    }
+]
